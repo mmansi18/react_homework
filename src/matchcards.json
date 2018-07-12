@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/Brian.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/Chris.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/Cleveland.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/EvilMonkey.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/Joe.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/Lois.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/Meg.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/MrHerbert.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/Peter.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/Quag.jpeg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/Stewie.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/Tom.jpg",
+      "clicked": false
+    }
+  ]
